@@ -24,7 +24,7 @@ int main()
     if (index == -1)
         printf("Not found");
     else
-        printf("Found at index:", index);
+        printf("Found at index:%d", index);
 
     return 0;
 }
